@@ -154,7 +154,7 @@ python src/mlp_model.py
 python src/evaluate.py
 ```
 
-## 📁 Dataset
+## Dataset
 
 The project uses parking-space images categorized into two classes:
 
